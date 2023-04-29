@@ -100,9 +100,15 @@ Register no.:212222230063
  
  ![IMG-20230429-WA0000](https://user-images.githubusercontent.com/119831303/235292303-917e9fa9-9d49-433f-9270-d379e062fef7.jpg)
 
- ##output screen shot of off stage
+
+##output screen shot of off stage
   
  
+![ogf](https://user-images.githubusercontent.com/119831303/235294063-e69a61c5-5b01-4de4-a2ad-869af499392a.jpg)
+## circuit diagram:
+
+![cr](https://user-images.githubusercontent.com/119831303/235294092-9e0fc878-a4f7-443a-928b-546876fc8e4b.jpg)
+
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
