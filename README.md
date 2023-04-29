@@ -71,7 +71,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -90,6 +90,7 @@ int main(void)
  }
 programmed by:p kathiravan.p
 Register no.:212222230063
+```
 
 
 ## Output screen shots of proteus  :
